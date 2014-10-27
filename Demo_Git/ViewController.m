@@ -31,4 +31,8 @@
   // Dispose of any resources that can be recreated.
 }
 
+- (void)dotask {
+  // do some task here
+}
+
 @end
